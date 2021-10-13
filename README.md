@@ -1,6 +1,6 @@
 # Python-Basics
 An introduction to Python Programming
-Content
+### Content
 1.  Basics
 2.  Variables
 3.  Getting inputs
